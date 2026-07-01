@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int sod(vector<int>& nums, int threshold, int d){
+    bool sod(vector<int>& nums, int threshold, int d){
         for(int num: nums){
             threshold-=ceil(double(num)/(double)d);
         }
