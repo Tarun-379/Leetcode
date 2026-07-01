@@ -3,9 +3,9 @@ public:
     bool sod(vector<int>& nums, int threshold, int d){
         for(int num: nums){
             threshold-=ceil(double(num)/(double)d);
+            if(threshold<0) return false;
         }
-        if(threshold >= 0) return true;
-        return false;
+        return true;
     }
     int smallestDivisor(vector<int>& nums, int threshold) {
         int low = 1;
