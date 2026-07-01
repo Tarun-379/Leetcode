@@ -2,7 +2,7 @@ class Solution {
 public:
     bool sod(vector<int>& nums, int threshold, int d){
         for(int num: nums){
-            threshold-=ceil(double(num)/(double)d);
+            threshold -= (num + d - 1) / d;
             if(threshold<0) return false;
         }
         return true;
