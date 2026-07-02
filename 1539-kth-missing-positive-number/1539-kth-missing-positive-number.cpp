@@ -6,14 +6,14 @@ public:
             if (num>maxx) maxx = num;
         }
         int ind = 0;
-        for(int i = 0 ; i < maxx ; i++){
+        for(int i = 1 ; i < maxx ; i++){
             if (i==arr[ind]) {
                 ind++;
                 continue;
             }
             k--;
-            if(k<0) return i;
+            if(k==0) return i;
         }
-        return arr[ind]+k+1;
+        return arr[ind]+k;
     }
 };
