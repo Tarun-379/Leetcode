@@ -4,7 +4,7 @@ public:
         if(arr[0]>k) return k;
         int count = 0;
         for(int i = 0 ; i < arr.size() ; i ++ ){
-            if(arr[i]-i-1 >= k and arr.size()>1){
+            if(arr[i]-i-1 >= k){
                 return arr[i-1]+k-count;
             }
             count = arr[i]-i-1;
