@@ -1,14 +1,17 @@
 class Solution {
 public:
     vector<int> sortArray(vector<int>& nums) {
-        map<int,int> mp;
-        for(int num: nums){
-            mp[num]++;
+        int low = *min_element(nums.begin(),nums.end());
+        int high = *max_element(nums.begin(),nums.end());
+        vector<int> counter(high-low+1,0);
+        for(int num:nums){
+            counter[num-low]++;
         }
         nums.clear();
-        for(auto num: mp){
-            for(int i = 0 ; i < num.second ; i++){
-                nums.push_back(num.first);
+        for(int i = 0 ; i < high-low+1 ; i++){
+            while(counter[i]!=0){
+                nums.push_back(i+low);
+                counter[i]--;
             }
         }
         return nums;
