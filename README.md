@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tarun-379/Leetcode/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/Tarun-379/Leetcode/tree/master/0205-isomorphic-strings) |
 ## Linked List
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Tarun-379/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Tarun-379/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Tarun-379/Leetcode/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/Tarun-379/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Tarun-379/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Tarun-379/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
