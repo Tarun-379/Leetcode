@@ -13,9 +13,8 @@ public:
         else sign = 1;
 
         long long ret = 0;
-        int i;
         bool out = false;
-        for(i = t ; i < s.size() ; i ++ ){
+        for(int i = t ; i < s.size() ; i ++ ){
             if (i==t and (s[i]=='+' or s[i]=='-')) continue;
             if (s[i]<='9' and s[i]>='0'){
                 if (((ret*10)+(s[i]-'0'))*sign <= INT_MIN) {
