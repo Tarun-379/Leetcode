@@ -10,18 +10,13 @@
  */
 class Solution {
 public:
-    void rev(ListNode*& head, ListNode*& tail, ListNode*& temp){
-        temp = head->next;
-        head->next = tail;
-        tail = head;
-        head = temp;
-        if(head!=NULL) rev(head,tail,temp);
+    ListNode* rev(ListNode* curr, ListNode* prev) {
+        if (curr == NULL) return prev;
+        ListNode* next = curr->next;
+        curr->next = prev;
+        return rev(next, curr);
     }
     ListNode* reverseList(ListNode* head) {
-        if (head==NULL or head->next==NULL) return head;
-        ListNode* tail = NULL;
-        ListNode* temp = head->next;
-        rev(head,tail,temp);
-        return tail;
+        return rev(head, NULL);
     }
 };
