@@ -21,7 +21,7 @@ public:
         temp = head;
         int i = 0 ;
         while(temp!=NULL){
-            temp->val = nums[i];
+           temp->val = nums[i];
             i++;
             temp = temp->next;
         }
