@@ -24,6 +24,7 @@ public:
         while(temp!=NULL){
             if(s == n-1) {
                 temp->next = temp->next->next;
+                break;
             }
             temp = temp->next;
             s++;
