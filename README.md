@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Tarun-379/Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Tarun-379/Leetcode/tree/master/0013-roman-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/Tarun-379/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Tarun-379/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Tarun-379/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
@@ -203,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Tarun-379/Leetcode/tree/master/0796-rotate-string) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Tarun-379/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
