@@ -10,6 +10,21 @@
  */
 class Solution {
 public:
+    ListNode* rev(ListNode* head) {
+            if(head == NULL or head->next == NULL) return head;
+            ListNode* prev = head;
+            ListNode* curr = prev->next;
+            ListNode* next = curr->next;
+
+            while(curr!=NULL){
+                next = curr->next;
+                curr->next = prev;
+                prev = curr;
+                curr = next;
+            }
+            head->next = NULL;
+            return prev;
+        }
     bool isPalindrome(ListNode* head) {
         if(head == NULL or head->next == NULL) return true;
         int s = 0;
@@ -18,18 +33,18 @@ public:
             s++;
             temp = temp->next;
         }
-        vector<int> st;
-        int i = 0 ;
-        while(head!=NULL){
-            if(i < s/2) st.push_back(head->val);
-            else if(s%2!=0 and i == s/2) ;
-            else {
-                if(head->val != st.back()) return false;
-                st.pop_back();
-            }
-            head = head->next;
-            i++;
+        temp = head;
+        for(int i = 1; i < s/2 ; i ++ ){
+            temp = temp->next;
         }
+        temp = rev(temp);
+
+        while(temp!=NULL and head!=NULL){
+            if(head->val != temp->val) return false;
+            head = head->next;
+            temp = temp->next;
+        }
+
         return true;
     }
 };
