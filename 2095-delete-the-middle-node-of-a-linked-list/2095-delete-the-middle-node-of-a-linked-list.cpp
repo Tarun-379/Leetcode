@@ -21,7 +21,10 @@ public:
         size = size/2;  
         temp = head;
         while(temp!=NULL){
-            if(size==1) temp->next = temp->next->next;
+            if(size==1) {
+                temp->next = temp->next->next;
+                break;
+            }
             size--;
             temp = temp->next;
         }
