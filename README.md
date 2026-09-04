@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tarun-379/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2951-find-the-peaks](https://github.com/Tarun-379/Leetcode/tree/master/2951-find-the-peaks) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tarun-379/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3903-smallest-stable-index-i](https://github.com/Tarun-379/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Tarun-379/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Tarun-379/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3903-smallest-stable-index-i](https://github.com/Tarun-379/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Divide and Conquer
 |  |
 | ------- |
