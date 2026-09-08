@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Tarun-379/Leetcode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Tarun-379/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tarun-379/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0055-jump-game](https://github.com/Tarun-379/Leetcode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Tarun-379/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tarun-379/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Tarun-379/Leetcode/tree/master/0118-pascals-triangle) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tarun-379/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/Tarun-379/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Tarun-379/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Tarun-379/Leetcode/tree/master/0118-pascals-triangle) |
 | [0410-split-array-largest-sum](https://github.com/Tarun-379/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tarun-379/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Tarun-379/Leetcode/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Tarun-379/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Tarun-379/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/Tarun-379/Leetcode/tree/master/1903-largest-odd-number-in-string) |
