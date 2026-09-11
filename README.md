@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Tarun-379/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tarun-379/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Tarun-379/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Tarun-379/Leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Tarun-379/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Tarun-379/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Tarun-379/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/Tarun-379/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Tarun-379/Leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2951-find-the-peaks](https://github.com/Tarun-379/Leetcode/tree/master/2951-find-the-peaks) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Tarun-379/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Heap (Priority Queue)
