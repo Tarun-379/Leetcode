@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tarun-379/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Tarun-379/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2951-find-the-peaks](https://github.com/Tarun-379/Leetcode/tree/master/2951-find-the-peaks) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Tarun-379/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Tarun-379/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tarun-379/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3903-smallest-stable-index-i](https://github.com/Tarun-379/Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Tarun-379/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/Tarun-379/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tarun-379/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Tarun-379/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Tarun-379/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Tarun-379/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tarun-379/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
