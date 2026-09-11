@@ -22,7 +22,7 @@ public:
                 }
             }
         }
-        for(int i = 0 ; i < 1000 ; i ++ ){
+        for(int i = 100 ; i < 1000 ; i ++ ){
             if(used[i]) ret.push_back(i);
         }
         return ret;
