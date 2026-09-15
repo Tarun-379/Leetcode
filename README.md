@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Tarun-379/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Tarun-379/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Tarun-379/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Tarun-379/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Tarun-379/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Tarun-379/Leetcode/tree/master/0070-climbing-stairs) |
 | [0233-number-of-digit-one](https://github.com/Tarun-379/Leetcode/tree/master/0233-number-of-digit-one) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Tarun-379/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Tarun-379/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Tarun-379/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/Tarun-379/Leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Tarun-379/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Tarun-379/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Tarun-379/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Tarun-379/Leetcode/tree/master/0067-add-binary) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Tarun-379/Leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Tarun-379/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Tarun-379/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
@@ -321,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Tarun-379/Leetcode/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Tarun-379/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
