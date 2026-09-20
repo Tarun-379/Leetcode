@@ -17,12 +17,12 @@ public:
         for(int i = t ; i < s.size() ; i ++ ){
             if (i==t and (s[i]=='+' or s[i]=='-')) continue;
             if (s[i]<='9' and s[i]>='0'){
-                if (((ret*10)+(s[i]-'0'))*sign <= INT_MIN) {
+                if (((ret*10)+(s[i]-'0'))*sign < INT_MIN) {
                     ret = INT_MIN;
                     out = true;
                     break;
                 }
-                else if ((ret*10)+(s[i]-'0') > INT_MAX) {
+                else if (sign==1 and (ret*10)+(s[i]-'0') > INT_MAX) {
                     ret = INT_MAX;
                     out = true;
                     break;
