@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Tarun-379/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tarun-379/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Tarun-379/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Tarun-379/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2951-find-the-peaks](https://github.com/Tarun-379/Leetcode/tree/master/2951-find-the-peaks) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Tarun-379/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Tarun-379/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Tarun-379/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Tarun-379/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Tarun-379/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Tarun-379/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Tarun-379/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Tarun-379/Leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Tarun-379/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Tarun-379/Leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Tarun-379/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Tarun-379/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Tarun-379/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Tarun-379/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Tarun-379/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Tarun-379/Leetcode/tree/master/0912-sort-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Tarun-379/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Tarun-379/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Sliding Window
 |  |
 | ------- |
