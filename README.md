@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tarun-379/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/Tarun-379/Leetcode/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/Tarun-379/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Tarun-379/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/Tarun-379/Leetcode/tree/master/0912-sort-an-array) |
 ## Matrix
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Tarun-379/Leetcode/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/Tarun-379/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0461-hamming-distance](https://github.com/Tarun-379/Leetcode/tree/master/0461-hamming-distance) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Tarun-379/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
