@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Tarun-379/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Tarun-379/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Tarun-379/Leetcode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
+| [3498-reverse-degree-of-a-string](https://github.com/Tarun-379/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Tarun-379/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Binary Search
 |  |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Tarun-379/Leetcode/tree/master/0067-add-binary) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Tarun-379/Leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Tarun-379/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [3498-reverse-degree-of-a-string](https://github.com/Tarun-379/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Tarun-379/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tarun-379/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Memoization
