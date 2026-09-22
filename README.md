@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Tarun-379/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tarun-379/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0233-number-of-digit-one](https://github.com/Tarun-379/Leetcode/tree/master/0233-number-of-digit-one) |
+| [0338-counting-bits](https://github.com/Tarun-379/Leetcode/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/Tarun-379/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Tarun-379/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Tarun-379/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Tarun-379/Leetcode/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/Tarun-379/Leetcode/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/Tarun-379/Leetcode/tree/master/0461-hamming-distance) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Tarun-379/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
