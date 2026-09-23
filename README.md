@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/Tarun-379/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Tarun-379/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Tarun-379/Leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2917-find-the-k-or-of-an-array](https://github.com/Tarun-379/Leetcode/tree/master/2917-find-the-k-or-of-an-array) |
 | [2951-find-the-peaks](https://github.com/Tarun-379/Leetcode/tree/master/2951-find-the-peaks) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Tarun-379/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Tarun-379/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -356,4 +357,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/Tarun-379/Leetcode/tree/master/0461-hamming-distance) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Tarun-379/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Tarun-379/Leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2917-find-the-k-or-of-an-array](https://github.com/Tarun-379/Leetcode/tree/master/2917-find-the-k-or-of-an-array) |
 <!---LeetCode Topics End-->
