@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Tarun-379/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Tarun-379/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tarun-379/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Tarun-379/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0875-koko-eating-bananas](https://github.com/Tarun-379/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Tarun-379/Leetcode/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Tarun-379/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Tarun-379/Leetcode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Tarun-379/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Tarun-379/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Tarun-379/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/Tarun-379/Leetcode/tree/master/0912-sort-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Tarun-379/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Tarun-379/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
