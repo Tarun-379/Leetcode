@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/Tarun-379/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Tarun-379/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tarun-379/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3708-longest-fibonacci-subarray](https://github.com/Tarun-379/Leetcode/tree/master/3708-longest-fibonacci-subarray) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tarun-379/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3903-smallest-stable-index-i](https://github.com/Tarun-379/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Tarun-379/Leetcode/tree/master/3904-smallest-stable-index-ii) |
