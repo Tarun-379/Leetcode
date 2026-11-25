@@ -5,7 +5,6 @@ public:
         const long long MOD = 1e9 + 7;
 
         int n = nums.size();
-        int ret = -1;
 
         int left = 1;
         int right = nums.size();
@@ -41,16 +40,10 @@ public:
                 }
             }
 
-            if(found){
-                ret = mid;
-                right = mid-1;
-            }
-            else{
-                left = mid+1;
-            }
-
+            if(found) right = mid-1;
+            else left = mid+1;
         }
 
-        return ret;
+        return left;
     }
 };
